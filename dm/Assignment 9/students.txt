@@ -1,0 +1,6 @@
+Anita,anita123@gmail.com,2000-06-15
+Rahul,rahul99@example.com,1998-12-05
+Priya,wrong-email@,2001-03-22
+Arun,arun_kumar@gmail.com,1999-07-30
+Sonia,sonia#mail.com,2002-01-10
+Kiran,kiran@example.com,not-a-date
